@@ -1,6 +1,7 @@
 """Test cases for the __main__ module."""
 
 import numpy as np
+
 from py21cmfast_tools import calculate_ps
 
 
